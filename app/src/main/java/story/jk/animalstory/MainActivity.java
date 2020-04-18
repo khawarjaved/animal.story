@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         String [] DetailStory = getResources().getStringArray(R.array.Detail_Story);
         list=findViewById(R.id.list);
 
-        ArrayAdapter
+        ArrayAdapter<String> adapter=new ArrayAdapter<>(this,android.R.layout.simple_list_item_1,TitleStory);
+        list.setAdapter(adapter);
     }
 }
