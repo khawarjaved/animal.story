@@ -16,6 +16,6 @@ public class StoryDetail extends AppCompatActivity {
         setContentView(R.layout.activity_story_detail);
 
         text=findViewById(R.id.text);
-        g
+
     }
 }
