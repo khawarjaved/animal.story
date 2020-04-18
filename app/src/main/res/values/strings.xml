@@ -19,4 +19,23 @@
     <item> Story15</item>
 
     </string-array>
+
+    <string-array name="Detail_Story">
+        <item> Story1</item>
+        <item> Story2</item>
+        <item> Story3</item>
+        <item> Story4</item>
+        <item> Story5</item>
+        <item> Story6</item>
+        <item> Story7</item>
+        <item> Story8</item>
+        <item> Story9</item>
+        <item> Story10</item>
+        <item> Story11</item>
+        <item> Story12</item>
+        <item> Story13</item>
+        <item> Story14</item>
+        <item> Story15</item>
+
+    </string-array>
 </resources>
